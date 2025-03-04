@@ -1,10 +1,5 @@
 <h1 align="center">Hello, I'm Daniel Okoye! 👋🏾</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdanielokoye&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdanielokoye&theme=radical" width="48%" />
-</p>
-
 ---
 
 ## 🛠 About Me
@@ -19,12 +14,14 @@
 ## 📊 GitHub Stats & Activity
 
 ### 📈 GitHub Overview
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamdanielokoye&show_icons=true&theme=radical" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdanielokoye&theme=radical" width="45%" />
 </p>
 
 ### 🚀 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdanielokoye&layout=compact&theme=radical" width="50%" />
 </p>
@@ -56,13 +53,13 @@
 ## 🔗 Connect with Me
 📫 **How to reach me:**
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielokoye">
+  <a href="https://www.linkedin.com/in/iamdanielokoye">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Okoye-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/iamdanielokoye">
     <img src="https://img.shields.io/badge/Twitter-%40yourhandle-blue?style=flat&logo=twitter" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:okkodann@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
   </a>
 </p>
