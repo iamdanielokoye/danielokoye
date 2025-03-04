@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Daniel Okoye! 👋🏾</h1>
 
----
-
 ## 🛠 About Me
 - 🏆 **Cybersecurity & DevSecOps Engineer**
 - ⚡ Passionate about **security automation, cloud security, DevOps, and infrastructure security.**
@@ -9,60 +7,33 @@
 - 🚀 Currently building **secure infrastructure, open-source cybersecurity projects, and learning advanced cloud security.**
 - 🎯 **Goal:** To integrate **automation, security, and infrastructure** into a single workflow.
 
----
+## 🚀 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Activity
-
-### 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdanielokoye&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdanielokoye&theme=radical" width="45%" />
-</p>
+### 📊 GitHub Overview
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdanielokoye&show_icons=true&theme=transparent) 
 
 ### 🚀 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdanielokoye&layout=compact&theme=radical" width="50%" />
-</p>
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdanielokoye&layout=compact&theme=transparent)
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC" />
-  <img src="https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5" />
-  <img src="https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=EE0000" />
-  <img src="https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25" />
-</p>
 
----
-
-## 📚 Latest Projects
-🚀 Here are some **projects** I’ve worked on:
-- **🔹 [Kubernetes Security Automation](https://github.com/iamdanielokoye/k8s-security-automation)** - Cluster-agnostic security automation for Kubernetes.
-- **🔹 [Terraform Secure AWS Modules](https://github.com/iamdanielokoye/terraform-secure-aws-modules)** - Secure AWS infrastructure with Terraform.
-- **🔹 [DevSecOps CI/CD Pipeline](https://github.com/iamdanielokoye/devsecops-pipeline)** - A secure CI/CD pipeline with compliance checks.
-- **🔹 [Cross-Platform File Transfer App](https://github.com/iamdanielokoye/cross-platform-file-transfer)** - A tool for transferring files between different OS.
-
----
+- **Cloud Platforms:** AWS, Azure, GCP, Linode  
+- **CI/CD Tools:** Jenkins, GitLab, GitHub Actions, Docker Swarm  
+- **Containers & Orchestration:** Docker, Kubernetes, Helm  
+- **Infrastructure as Code:** Terraform, CloudFormation, Ansible  
+- **Security & Compliance:** DevSecOps, Infrastructure security, IAM, Security Automation  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Datadog  
+- **Version Control:** Git, GitHub  
+- **Scripting & Programming:** Python, Bash, PowerShell, Golang, JavaScript
+- **Networking & Security:** VPN, Firewalls, Zero Trust Architecture
 
 ## 🔗 Connect with Me
 📫 **How to reach me:**
-<p align="center">
-  <a href="https://www.linkedin.com/in/iamdanielokoye">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Okoye-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/iamdanielokoye">
-    <img src="https://img.shields.io/badge/Twitter-%40yourhandle-blue?style=flat&logo=twitter" />
-  </a>
-  <a href="mailto:okkodann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamdanielokoye)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamdanielokoye)
 
----
+❤️ _I'm currently working on personal projects, cloud security solutions, and most importantly, myself._
+
 🚀 **I’m always open to collaborations and learning new things! Let’s connect and build something amazing together.**
