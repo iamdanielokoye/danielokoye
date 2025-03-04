@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile! 🎉</h1>
 
 <p align="center">
-  <a href="https://github.com/joeshiett"><img src="https://github-readme-stats.vercel.app/api?username=joeshiett&hide_border=true&show_icons=true" alt="joeshiett's github stats"></a>
+  <a href="https://github.com/joeshiett"><img src="https://github-readme-stats.vercel.app/api?username=joeshiett&hide_border=true&show_icons=true" alt="danielokoye's github stats"></a>
   <a href="https://github.com/joeshiett"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeshiett&hide_border=true&show_icons=true" alt="joeshiett's most used languages"></a>
 <!--
 **utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
