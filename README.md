@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <strong><a href="https://twitter.com/iamdanielokoye">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/iamdanielokoye">LinkedIn</a></strong> |
+  Check out my social profiles! <strong><a href="https://twitter.com/iamdanielokoye">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/iamdanielokoye">LinkedIn</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on personal projects, cloud solutions and most important of all, myself.</p>
