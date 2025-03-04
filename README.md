@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <strong><a href="https://twitter.com/eshiettjoseph">Twitter</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong>Hey! Check out my articles on <a href="https://www.medium.com/eshiett314">Medium</a></strong>
+  <strong><a href="https://twitter.com/iamdanielokoye">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/iamdanielokoye">LinkedIn</a></strong> |
 </p>
 
 <p align="center">❤ I'm currently working on personal projects, cloud solutions and most important of all, myself.</p>
